@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Liamcr21/tictactoe/issues"
   },
-  "homepage": "https://github.com/Liamcr21/tictactoe#readme"
+  "homepage": "https://github.com/Liamcr21/tictactoe#readme",
+  "dependencies": {
+    "vue": "^3.2.45"
+  }
 }
